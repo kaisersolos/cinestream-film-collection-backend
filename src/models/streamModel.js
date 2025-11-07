@@ -15,7 +15,7 @@ export const encontreTodos = async (filtros = {}) => {
 
   if (classificacao) {
     where.classificacao = {
-      equals: classificacao,
+      contains: classificacao,
       mode: "insensitive",
     };
   }
