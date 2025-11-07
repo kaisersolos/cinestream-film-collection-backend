@@ -1,8 +1,27 @@
 import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 
-export const encontreTodos = async () => {
+export const encontreTodos = async (filtros = {}) => {
+  const { genero, ano, classificacao } = filtros;
+  const where = {};
+
+  if (genero) {
+    where.generoId = Number(genero);
+  }
+
+  if (ano) {
+    where.anoLancamento = Number(ano);
+  }
+
+  if (classificacao) {
+    where.classificacao = {
+      equals: classificacao,
+      mode: "insensitive",
+    };
+  }
+
   return await prisma.stream.findMany({
+    where: where,
     orderBy: { id: "asc" },
     include: { genero: true },
   });
